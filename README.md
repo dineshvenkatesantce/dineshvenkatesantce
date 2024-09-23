@@ -20,4 +20,4 @@ I'm a Developer, specializing in Python. Currently, I'm learning more about Cybe
 
 ---
 
-![Profile Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub) 
+![Profile Banner](https://github.com/dineshvenkatesantce/dineshvenkatesantce/blob/main/CodeType.jpg) 

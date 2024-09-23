@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Portfolio 👋
 
-<!--
-**dineshvenkatesantce/dineshvenkatesantce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Dinesh Venkatesan, a passionate software developer. Welcome to my GitHub profile! Here, you'll find my latest projects, contributions, and technical writing.
 
-Here are some ideas to get you started:
+## Projects 🚀
+- **[Project 1](https://github.com/dineshvenkatesantce/byb_project)**: Part 2 - Task 1
+- **[Project 2](https://github.com/dineshvenkatesantce/dineshvenkatesantce)**: Part 2 - Task 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies 🛠
+- Python
+- Git
+- HTML/CSS
+
+## About Me 🌱
+I'm a Developer, specializing in Python. Currently, I'm learning more about Cyber Security.
+
+## Contact Me 📬
+- **Email**: vdinesh.tce@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/dineshvenkatesan/](https://www.linkedin.com/in/dineshvenkatesan/)
+
+---
+
+![Profile Banner](https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub) 
